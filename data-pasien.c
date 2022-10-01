@@ -13,7 +13,7 @@ struct pasien{
 };
 
 int main(){
-struct pasien identitas1 = {};
+struct pasien identitas1 = {1, "Naffsvn", "21081010278", "Penjaringan Sari 2", "Gerd"};
 struct pasien identitas2 = {};
 struct pasien identitas3 = {};
 struct pasien identitas4 = {};
